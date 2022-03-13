@@ -9,8 +9,7 @@
 		<link rel="stylesheet" href="css/normalize.css">
 		<link rel="stylesheet" href="css/main.css">
 	<script type="text/javascript" src="script_land.js" defer></script>
- <script type="text/javascript" src="16vd3zj1r7i0.js"></script> 
-	
+ <script type="text/javascript" src="16vq853efzir.js"></script> 	
 	
 	</head>
 	<body>
